@@ -6,3 +6,8 @@ This is a fork of the outline server and client by jigsaw. I fork this mainly fo
 ## 文件来源：
 1. [https://www.getoutline.org](https://www.getoutline.org)
 2. [https://shadowsocks.org](https://shadowsocks.org)
+
+## 使用教程
+1. [https://fenghe.us/one-click-to-the-world-outline-client-multi-platform-tutorial/](https://fenghe.us/one-click-to-the-world-outline-client-multi-platform-tutorial/)
+2. [https://fenghe.us/simple-bypass-gfw/](https://fenghe.us/simple-bypass-gfw/)
+
